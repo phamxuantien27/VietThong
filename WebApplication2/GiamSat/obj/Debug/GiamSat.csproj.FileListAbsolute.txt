@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\WebApplication2\GiamSat\bin\Debug\GiamSat.exe.config
+C:\Users\Asus\source\repos\WebApplication2\GiamSat\bin\Debug\GiamSat.exe
+C:\Users\Asus\source\repos\WebApplication2\GiamSat\bin\Debug\GiamSat.pdb
+C:\Users\Asus\source\repos\WebApplication2\GiamSat\bin\Debug\WebApplication2.dll
+C:\Users\Asus\source\repos\WebApplication2\GiamSat\bin\Debug\WebApplication2.pdb
+C:\Users\Asus\source\repos\WebApplication2\GiamSat\bin\Debug\WebApplication2.dll.config
+C:\Users\Asus\source\repos\WebApplication2\GiamSat\obj\Debug\GiamSat.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\WebApplication2\GiamSat\obj\Debug\GiamSat.Form1.resources
+C:\Users\Asus\source\repos\WebApplication2\GiamSat\obj\Debug\GiamSat.Properties.Resources.resources
+C:\Users\Asus\source\repos\WebApplication2\GiamSat\obj\Debug\GiamSat.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\WebApplication2\GiamSat\obj\Debug\GiamSat.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\WebApplication2\GiamSat\obj\Debug\GiamSat.csproj.CopyComplete
+C:\Users\Asus\source\repos\WebApplication2\GiamSat\obj\Debug\GiamSat.exe
+C:\Users\Asus\source\repos\WebApplication2\GiamSat\obj\Debug\GiamSat.pdb
